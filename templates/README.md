@@ -2,7 +2,8 @@
 #Fábio Rolim
 #Lucas Bezerra
 
-Minicurso de Flask SNCT 2018 - IFPI - Campus Oeiras
+Hello Web com Flask 
+SNCT 2018 - IFPI - Campus Oeiras
 
 #Requeremens
 python >= 3.6
