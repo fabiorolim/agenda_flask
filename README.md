@@ -2,12 +2,12 @@
 
 <h3>#agenda_flask</h3>
 
-<h3>#Authors</h3>
+<h3>#authors</h3>
 <p>Fábio Rolim<p>
 <p>Lucas Bezerra</p>
 
 
-<h3>#Requiremens</h3>
+<h3>#requiremens</h3>
 <p>python >= 3.6</p>
 <p>flask == 0.12.2</p>
 <p>sqlite3</p>
