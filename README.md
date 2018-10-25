@@ -1,17 +1,17 @@
-# agenda_flask
+<h3>Hello Web com Flask SNCT 2018 - IFPI - Campus Oeiras <h3>
 
-#Authors
-#Fábio Rolim
-#Lucas Bezerra
+<h3># agenda_flask</h3>
 
-Hello Web com Flask 
-SNCT 2018 - IFPI - Campus Oeiras
+<h3>Authors</h3>
+<p>Fábio Rolim<p>
+<p>Lucas Bezerra</p>
 
-#Requeremens
-python >= 3.6
-flask == 0.12.2
-sqlite3
 
-#start
-pip3 install update
-pip3 install flask==0.12.2
+<h3>#Requiremens</h3>
+<p>python >= 3.6</p>
+<p>flask == 0.12.2</p>
+<p>sqlite3</p>
+
+<h3>#start</h3>
+<p>pip3 install update</p>
+<p>pip3 install flask==0.12.2</p>
