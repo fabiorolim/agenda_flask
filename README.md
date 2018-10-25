@@ -7,7 +7,7 @@
 <p>Lucas Bezerra</p>
 
 
-<h3>#requiremens</h3>
+<h3>#requirements</h3>
 <p>python >= 3.6</p>
 <p>flask == 0.12.2</p>
 <p>sqlite3</p>
